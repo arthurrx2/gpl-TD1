@@ -1,6 +1,7 @@
 # gpl-TD1
 XU Arthur, Stahl Benjamin, Hermier Alexis, Roumens Virgile
-<<<<<<< HEAD
+
+
 Un soldat jeune, bouche ouverte, tête nue,
 Et la nuque baignant dans le frais cresson bleu,
 Dort ; il est étendu dans l’herbe, sous la nue,
@@ -24,6 +25,4 @@ Ennui de la plaine,
 La neige incertaine
 Luit comme du sable."
 Paul Verlaine
->>>>>>> 
->>>>>>> main
->>>>>>> main
+
