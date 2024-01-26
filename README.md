@@ -1,4 +1,5 @@
 # gpl-TD1
+XU Arthur, Stahl Benjamin, Hermier Alexis, Roumens Virgile
 <<<<<<< HEAD
 Un soldat jeune, bouche ouverte, tête nue,
 Et la nuque baignant dans le frais cresson bleu,
