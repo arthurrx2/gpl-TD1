@@ -25,4 +25,3 @@ Ennui de la plaine,
 La neige incertaine
 Luit comme du sable."
 Paul Verlaine
-
